@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   css: ["~/assets/css/main.css"],
 
   // Static generation output path
-  buildDir: '../nuxt-build',
+  buildDir: '../nuxt-build', 
 
   postcss: {
     plugins: {
