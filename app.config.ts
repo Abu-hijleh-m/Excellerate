@@ -1,6 +1,12 @@
 // app.config.ts
 export default defineAppConfig({
-  nuxtIcon: {
-    class: "",
-  },
+  ui: {
+    button:{
+      default:{
+        color:'black',
+        rounded: 'rounded-sm',
+        background:'black'
+      }
+    }
+  }
 });
