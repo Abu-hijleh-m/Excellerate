@@ -6,7 +6,7 @@ definePageMeta({
 <template>
     <LandingContainer>
         <LandingSectionhead>
-        <template v-slot:desc>industries page</template>
+        <template v-slot:desc>industries page!</template>
         <template v-slot:title>Welcome to industries page</template>
         </LandingSectionhead>
         <br>
