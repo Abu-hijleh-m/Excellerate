@@ -9,7 +9,7 @@
 
 
 const items = [{
-  label: 'What is Excelerate?',
+  label: 'What is Excelerateeee?',
   icon: 'i-codex:dot-circle',
   defaultOpen: false,
   content: 'Excelerate is a global coaching and business development organization that empowers entrepreneurs by integrating operational excellence and strategic insights into every stage of their business journey.'
